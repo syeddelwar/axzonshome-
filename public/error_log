@@ -1,0 +1,155 @@
+[26-Mar-2023 22:51:58 UTC] PHP Warning:  require(/home/delwqzwq/practice.delwarit.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/delwqzwq/practice.delwarit.com/public/index.php on line 34
+[26-Mar-2023 22:51:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/delwqzwq/practice.delwarit.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/delwqzwq/practice.delwarit.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/delwqzwq/practice.delwarit.com/public/index.php on line 34
+[26-Mar-2023 22:52:08 UTC] PHP Warning:  require(/home/delwqzwq/practice.delwarit.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/delwqzwq/practice.delwarit.com/public/index.php on line 34
+[26-Mar-2023 22:52:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/delwqzwq/practice.delwarit.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/delwqzwq/practice.delwarit.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/delwqzwq/practice.delwarit.com/public/index.php on line 34
+[26-Mar-2023 22:52:20 UTC] PHP Warning:  require(/home/delwqzwq/practice.delwarit.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/delwqzwq/practice.delwarit.com/public/index.php on line 34
+[26-Mar-2023 22:52:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/delwqzwq/practice.delwarit.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/delwqzwq/practice.delwarit.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/delwqzwq/practice.delwarit.com/public/index.php on line 34
+[26-Mar-2023 22:52:53 UTC] PHP Warning:  require(/home/delwqzwq/practice.delwarit.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/delwqzwq/practice.delwarit.com/public/index.php on line 34
+[26-Mar-2023 22:52:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/delwqzwq/practice.delwarit.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/delwqzwq/practice.delwarit.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/delwqzwq/practice.delwarit.com/public/index.php on line 34
+[26-Mar-2023 23:04:24 UTC] PHP Warning:  require(/home/delwqzwq/practice.delwarit.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/delwqzwq/practice.delwarit.com/index.php on line 34
+[26-Mar-2023 23:04:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/delwqzwq/practice.delwarit.com/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/delwqzwq/practice.delwarit.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/delwqzwq/practice.delwarit.com/index.php on line 34
+[26-Mar-2023 23:04:30 UTC] PHP Warning:  require(/home/delwqzwq/practice.delwarit.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/delwqzwq/practice.delwarit.com/index.php on line 34
+[26-Mar-2023 23:04:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/delwqzwq/practice.delwarit.com/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/delwqzwq/practice.delwarit.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/delwqzwq/practice.delwarit.com/index.php on line 34
+[26-Mar-2023 23:06:09 UTC] PHP Warning:  require(/home/delwqzwq/practice.delwarit.com/homecare/vendor/autoload.php): Failed to open stream: No such file or directory in /home/delwqzwq/practice.delwarit.com/index.php on line 34
+[26-Mar-2023 23:06:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/delwqzwq/practice.delwarit.com/homecare/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/delwqzwq/practice.delwarit.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/delwqzwq/practice.delwarit.com/index.php on line 34
+[26-Mar-2023 23:06:10 UTC] PHP Warning:  require(/home/delwqzwq/practice.delwarit.com/homecare/vendor/autoload.php): Failed to open stream: No such file or directory in /home/delwqzwq/practice.delwarit.com/index.php on line 34
+[26-Mar-2023 23:06:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/delwqzwq/practice.delwarit.com/homecare/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/delwqzwq/practice.delwarit.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/delwqzwq/practice.delwarit.com/index.php on line 34
+[26-Mar-2023 23:06:13 UTC] PHP Warning:  require(/home/delwqzwq/practice.delwarit.com/homecare/vendor/autoload.php): Failed to open stream: No such file or directory in /home/delwqzwq/practice.delwarit.com/index.php on line 34
+[26-Mar-2023 23:06:13 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/delwqzwq/practice.delwarit.com/homecare/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/delwqzwq/practice.delwarit.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/delwqzwq/practice.delwarit.com/index.php on line 34
+[26-Mar-2023 23:06:26 UTC] PHP Warning:  require(/home/delwqzwq/practice.delwarit.com/homecare/vendor/autoload.php): Failed to open stream: No such file or directory in /home/delwqzwq/practice.delwarit.com/index.php on line 34
+[26-Mar-2023 23:06:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/delwqzwq/practice.delwarit.com/homecare/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/delwqzwq/practice.delwarit.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/delwqzwq/practice.delwarit.com/index.php on line 34
+[26-Mar-2023 23:09:34 UTC] PHP Warning:  require(/home/delwqzwq/practice.delwarit.com/homecare/vendor/autoload.php): Failed to open stream: No such file or directory in /home/delwqzwq/practice.delwarit.com/index.php on line 34
+[26-Mar-2023 23:09:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/delwqzwq/practice.delwarit.com/homecare/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/delwqzwq/practice.delwarit.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/delwqzwq/practice.delwarit.com/index.php on line 34
+[26-Mar-2023 23:09:34 UTC] PHP Warning:  require(/home/delwqzwq/practice.delwarit.com/homecare/vendor/autoload.php): Failed to open stream: No such file or directory in /home/delwqzwq/practice.delwarit.com/index.php on line 34
+[26-Mar-2023 23:09:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/delwqzwq/practice.delwarit.com/homecare/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/delwqzwq/practice.delwarit.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/delwqzwq/practice.delwarit.com/index.php on line 34
+[26-Mar-2023 23:09:34 UTC] PHP Warning:  require(/home/delwqzwq/practice.delwarit.com/homecare/vendor/autoload.php): Failed to open stream: No such file or directory in /home/delwqzwq/practice.delwarit.com/index.php on line 34
+[26-Mar-2023 23:09:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/delwqzwq/practice.delwarit.com/homecare/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/delwqzwq/practice.delwarit.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/delwqzwq/practice.delwarit.com/index.php on line 34
+[26-Mar-2023 23:09:34 UTC] PHP Warning:  require(/home/delwqzwq/practice.delwarit.com/homecare/vendor/autoload.php): Failed to open stream: No such file or directory in /home/delwqzwq/practice.delwarit.com/index.php on line 34
+[26-Mar-2023 23:09:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/delwqzwq/practice.delwarit.com/homecare/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/delwqzwq/practice.delwarit.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/delwqzwq/practice.delwarit.com/index.php on line 34
+[26-Mar-2023 23:09:41 UTC] PHP Warning:  require(/home/delwqzwq/practice.delwarit.com/homecare/vendor/autoload.php): Failed to open stream: No such file or directory in /home/delwqzwq/practice.delwarit.com/index.php on line 34
+[26-Mar-2023 23:09:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/delwqzwq/practice.delwarit.com/homecare/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/delwqzwq/practice.delwarit.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/delwqzwq/practice.delwarit.com/index.php on line 34
+[26-Mar-2023 23:09:41 UTC] PHP Warning:  require(/home/delwqzwq/practice.delwarit.com/homecare/vendor/autoload.php): Failed to open stream: No such file or directory in /home/delwqzwq/practice.delwarit.com/index.php on line 34
+[26-Mar-2023 23:09:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/delwqzwq/practice.delwarit.com/homecare/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/delwqzwq/practice.delwarit.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/delwqzwq/practice.delwarit.com/index.php on line 34
+[26-Mar-2023 23:10:33 UTC] PHP Warning:  require(/home/delwqzwq/practice.delwarit.com/homecare/vendor/autoload.php): Failed to open stream: No such file or directory in /home/delwqzwq/practice.delwarit.com/index.php on line 34
+[26-Mar-2023 23:10:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/delwqzwq/practice.delwarit.com/homecare/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/delwqzwq/practice.delwarit.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/delwqzwq/practice.delwarit.com/index.php on line 34
+[26-Mar-2023 23:10:34 UTC] PHP Warning:  require(/home/delwqzwq/practice.delwarit.com/homecare/vendor/autoload.php): Failed to open stream: No such file or directory in /home/delwqzwq/practice.delwarit.com/index.php on line 34
+[26-Mar-2023 23:10:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/delwqzwq/practice.delwarit.com/homecare/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/delwqzwq/practice.delwarit.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/delwqzwq/practice.delwarit.com/index.php on line 34
+[26-Mar-2023 23:10:41 UTC] PHP Warning:  require(/home/delwqzwq/practice.delwarit.com/homecare/vendor/autoload.php): Failed to open stream: No such file or directory in /home/delwqzwq/practice.delwarit.com/index.php on line 34
+[26-Mar-2023 23:10:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/delwqzwq/practice.delwarit.com/homecare/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/delwqzwq/practice.delwarit.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/delwqzwq/practice.delwarit.com/index.php on line 34
+[26-Mar-2023 23:18:23 UTC] PHP Warning:  require(/home/delwqzwq/practice.delwarit.com/home/delwqzwq/public_html/homecare/vendor/autoload.php): Failed to open stream: No such file or directory in /home/delwqzwq/practice.delwarit.com/index.php on line 34
+[26-Mar-2023 23:18:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/delwqzwq/practice.delwarit.com/home/delwqzwq/public_html/homecare/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/delwqzwq/practice.delwarit.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/delwqzwq/practice.delwarit.com/index.php on line 34
+[26-Mar-2023 23:18:24 UTC] PHP Warning:  require(/home/delwqzwq/practice.delwarit.com/home/delwqzwq/public_html/homecare/vendor/autoload.php): Failed to open stream: No such file or directory in /home/delwqzwq/practice.delwarit.com/index.php on line 34
+[26-Mar-2023 23:18:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/delwqzwq/practice.delwarit.com/home/delwqzwq/public_html/homecare/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/delwqzwq/practice.delwarit.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/delwqzwq/practice.delwarit.com/index.php on line 34
+[26-Mar-2023 23:18:28 UTC] PHP Warning:  require(/home/delwqzwq/practice.delwarit.com/home/delwqzwq/public_html/homecare/vendor/autoload.php): Failed to open stream: No such file or directory in /home/delwqzwq/practice.delwarit.com/index.php on line 34
+[26-Mar-2023 23:18:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/delwqzwq/practice.delwarit.com/home/delwqzwq/public_html/homecare/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/delwqzwq/practice.delwarit.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/delwqzwq/practice.delwarit.com/index.php on line 34
+[26-Mar-2023 23:18:29 UTC] PHP Warning:  require(/home/delwqzwq/practice.delwarit.com/home/delwqzwq/public_html/homecare/vendor/autoload.php): Failed to open stream: No such file or directory in /home/delwqzwq/practice.delwarit.com/index.php on line 34
+[26-Mar-2023 23:18:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/delwqzwq/practice.delwarit.com/home/delwqzwq/public_html/homecare/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/delwqzwq/practice.delwarit.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/delwqzwq/practice.delwarit.com/index.php on line 34
+[26-Mar-2023 23:18:53 UTC] PHP Warning:  require(/home/delwqzwq/practice.delwarit.com/homecare/vendor/autoload.php): Failed to open stream: No such file or directory in /home/delwqzwq/practice.delwarit.com/index.php on line 34
+[26-Mar-2023 23:18:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/delwqzwq/practice.delwarit.com/homecare/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/delwqzwq/practice.delwarit.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/delwqzwq/practice.delwarit.com/index.php on line 34
+[26-Mar-2023 23:18:54 UTC] PHP Warning:  require(/home/delwqzwq/practice.delwarit.com/homecare/vendor/autoload.php): Failed to open stream: No such file or directory in /home/delwqzwq/practice.delwarit.com/index.php on line 34
+[26-Mar-2023 23:18:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/delwqzwq/practice.delwarit.com/homecare/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/delwqzwq/practice.delwarit.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/delwqzwq/practice.delwarit.com/index.php on line 34
+[26-Mar-2023 23:20:47 UTC] PHP Warning:  require(/home/delwqzwq/practice.delwarit.com/homecare/vendor/autoload.php): Failed to open stream: No such file or directory in /home/delwqzwq/practice.delwarit.com/index.php on line 34
+[26-Mar-2023 23:20:47 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/delwqzwq/practice.delwarit.com/homecare/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/delwqzwq/practice.delwarit.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/delwqzwq/practice.delwarit.com/index.php on line 34
+[26-Mar-2023 23:20:50 UTC] PHP Warning:  require(/home/delwqzwq/practice.delwarit.com/homecare/vendor/autoload.php): Failed to open stream: No such file or directory in /home/delwqzwq/practice.delwarit.com/index.php on line 34
+[26-Mar-2023 23:20:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/delwqzwq/practice.delwarit.com/homecare/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/delwqzwq/practice.delwarit.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/delwqzwq/practice.delwarit.com/index.php on line 34
+[26-Mar-2023 23:20:52 UTC] PHP Warning:  require(/home/delwqzwq/practice.delwarit.com/homecare/vendor/autoload.php): Failed to open stream: No such file or directory in /home/delwqzwq/practice.delwarit.com/index.php on line 34
+[26-Mar-2023 23:20:52 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/delwqzwq/practice.delwarit.com/homecare/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/delwqzwq/practice.delwarit.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/delwqzwq/practice.delwarit.com/index.php on line 34
+[26-Mar-2023 23:24:38 UTC] PHP Warning:  require(/home/delwqzwq/practice.delwarit.com/homecare/vendor/autoload.php): Failed to open stream: No such file or directory in /home/delwqzwq/practice.delwarit.com/index.php on line 34
+[26-Mar-2023 23:24:38 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/delwqzwq/practice.delwarit.com/homecare/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/delwqzwq/practice.delwarit.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/delwqzwq/practice.delwarit.com/index.php on line 34
+[26-Mar-2023 23:31:18 UTC] PHP Warning:  require(/home/delwqzwq/practice.delwarit.com/homecare/vendor/autoload.php): Failed to open stream: No such file or directory in /home/delwqzwq/practice.delwarit.com/index.php on line 34
+[26-Mar-2023 23:31:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/delwqzwq/practice.delwarit.com/homecare/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/delwqzwq/practice.delwarit.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/delwqzwq/practice.delwarit.com/index.php on line 34
+[26-Mar-2023 23:34:23 UTC] PHP Warning:  require(/home/delwqzwq/practice.delwarit.com/homecare/vendor/autoload.php): Failed to open stream: No such file or directory in /home/delwqzwq/practice.delwarit.com/index.php on line 34
+[26-Mar-2023 23:34:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/delwqzwq/practice.delwarit.com/homecare/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/delwqzwq/practice.delwarit.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/delwqzwq/practice.delwarit.com/index.php on line 34
